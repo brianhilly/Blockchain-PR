@@ -1,5 +1,5 @@
 # blockchain-pr
-Blockchain PR checklist - Info for your next campaign 
+Checklist for your next campaign 
 **Blockchain PR Checklist**
 ===========================
 
